@@ -1,14 +1,16 @@
-# web Server
+# Install Web Server & PHP & MYSQL 
+
+1. web Server
 =============================
 - Apache
 https://www.youtube.com/watch?v=oJnCEqeAsUk
 
-# PHP
+2. PHP
 =============================
 - PHP
 https://www.youtube.com/watch?v=mVBe75aGBHQ
 
-# MYSQL
+3. MYSQL
 =============================
 - MYSQL
 https://www.youtube.com/watch?v=WuBcTJnIuzo
