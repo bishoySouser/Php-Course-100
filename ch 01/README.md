@@ -1,4 +1,4 @@
-# Install Web Server & PHP & MYSQL 
+# Install Web Server & PHP & MYSQL & IDE
 ------------------------------------------
 1. web Server
 - Apache https://www.youtube.com/watch?v=oJnCEqeAsUk
